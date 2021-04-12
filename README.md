@@ -7,9 +7,6 @@ Server-Side:Node.js
 
 DataBase:cloud ->MongoDb  
 
-client code on Client Branch :https://github.com/rabeaa606/bioWaze/tree/client  
-
-Server code in Server Folder :https://github.com/rabeaa606/bioWaze/tree/main/server  
 
 Quick Start 
 
